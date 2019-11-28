@@ -67,7 +67,7 @@ vuln = "\033[32mVuln"
 
 def siapa():
 	os.system('clear')
-	nama = raw_input("\033[1;97mSiapa nama kamu ? \033[1;91m: \033[1;92m")
+	nama = raw_input("\033[1;97mSiapa nama kamu 😊😊 ? \033[1;91m: \033[1;92m")
 	if nama =="":
 		print"\033[1;96m[!] \033[1;91mIsi yang benar"
 		time.sleep(1)
@@ -873,5 +873,6 @@ def clone_dari_file():
 	
        
 		
-if __name__ == '__main__':
+i __name__ == '__main__':
 	siapa()
+TTERIMA KASIH TELAH MENGGUNAKAN TOLL INI
